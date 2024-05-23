@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Menu List_tree-indicator glyphicon glyphi_b862c3</name>
+   <tag></tag>
+   <elementGuidId>cb6b350f-ce2c-45fc-98d4-f8fb43ff0dec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.tree-indicator.glyphicon.glyphicon-chevron-right</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='treemenu']/li/ul/li/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.tree-branch > ul > li > .tree-indicator >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>32262b63-32b1-446a-b4ad-fac40b09a0e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tree-indicator glyphicon glyphicon-chevron-right</value>
+      <webElementGuid>f23d7934-0751-47dc-8a86-6a62c6e3325e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;treemenu&quot;)/li[@class=&quot;tree-branch&quot;]/ul[1]/li[@class=&quot;tree-branch&quot;]/i[@class=&quot;tree-indicator glyphicon glyphicon-chevron-right&quot;]</value>
+      <webElementGuid>630ca4b2-8a22-4d1b-880d-76df18ac6896</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='treemenu']/li/ul/li/i</value>
+      <webElementGuid>137f4f2a-b43e-40d7-bbef-19c43d3331f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li/i</value>
+      <webElementGuid>025f72c5-4595-42cc-be6a-29ce787cddf9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

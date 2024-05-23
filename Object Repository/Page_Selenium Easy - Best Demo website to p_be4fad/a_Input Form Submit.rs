@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Input Form Submit</name>
+   <tag></tag>
+   <elementGuidId>18625d46-fb99-4fcd-a242-68dd1fabc828</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.tree-branch > ul > li:nth-of-type(5) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='treemenu']/li/ul/li/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Input Form Submit&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f99e1da7-ca8b-41da-a139-20c62e637844</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>./input-form-demo.html</value>
+      <webElementGuid>4c66b31f-8804-4359-8d59-8a20236f14ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Input Form Submit</value>
+      <webElementGuid>4004cdbd-612c-4146-bd11-3e41d8308a88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;treemenu&quot;)/li[@class=&quot;tree-branch&quot;]/ul[1]/li[@class=&quot;tree-branch&quot;]/ul[1]/li[5]/a[1]</value>
+      <webElementGuid>fd36b2f4-e17f-42f7-b9ac-f1e1fa427abe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='treemenu']/li/ul/li/ul/li[5]/a</value>
+      <webElementGuid>a942fe43-7e22-4f08-a666-bda864970b83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Input Form Submit')])[2]</value>
+      <webElementGuid>5e7dea8c-8f99-4916-8076-f0aaa441f76f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Dropdown List'])[2]/following::a[1]</value>
+      <webElementGuid>bdf54eb0-c3e8-47fe-a5d7-90683caac5ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Radio Buttons Demo'])[2]/following::a[2]</value>
+      <webElementGuid>f74d80ac-8a75-4f7b-a6a9-a4b05ef6f158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ajax Form Submit'])[2]/preceding::a[1]</value>
+      <webElementGuid>6e068533-9347-40ad-a592-59b9a7400ff8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JQuery Select dropdown'])[2]/preceding::a[2]</value>
+      <webElementGuid>a63ff408-6819-441d-bb0c-e947d54517d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, './input-form-demo.html')])[2]</value>
+      <webElementGuid>1aec639e-3aee-40b7-be29-41ad0076cb33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li/ul/li[5]/a</value>
+      <webElementGuid>b0c1d7e1-505f-40f2-abb9-e6ef96a3a12b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = './input-form-demo.html' and (text() = 'Input Form Submit' or . = 'Input Form Submit')]</value>
+      <webElementGuid>157c2f11-885d-4e89-ac21-03541df8d6be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
